@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <i>AI Engineer @ PayNearby · B.Tech ECE, Guru Ghasidas Vishwavidyalaya '26</i>
+  <i>AI Engineer @ PayNearby · B.Tech ECE in AI, Guru Ghasidas Vishwavidyalaya '26</i>
 </p>
 
 <p align="center">
