@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 💼 **AI Engineer Intern @ PayNearby** — shipped Saathi AI, a production voice financial counselor on Google ADK serving 1,500+ users with 6 Gemini SFT models
+- 💼 **AI Engineer Intern @ PayNearby** — shipped Saathi AI, a production voice financial counselor on Google ADK serving 1,500+ users across 6 domain sub agents
 - 🏢 **Ex-AI Engineer Intern @ GeniOS** — founding engineer, built agentic reasoning pipeline with LangGraph and LangChain, 92% accuracy across 500+ users
 - 🤖 **Building:** production agentic AI, RAG pipelines, LLM evaluation and observability systems
 - 🎓 **B.Tech ECE** — Guru Ghasidas Vishwavidyalaya, Bilaspur (CGPA: 8.0/10)
@@ -81,9 +81,9 @@
 
 ### 🎙️ Saathi AI — Production Voice Financial Counselor
 
-> Production voice agent on Google Agent Development Kit (ADK) serving 1,500+ users at PayNearby. Routes queries through a fine tuned orchestrator to 6 domain sub agents, each with its own Gemini SFT model, 4 of them RAG backed. Self hosted Opik observability with LLM-as-judge evaluation against a 109 item golden QA dataset.
+> Production voice agent on Google Agent Development Kit (ADK) at PayNearby. Routes queries through a root orchestrator to 6 domain sub agents, 4 of them RAG backed. Self hosted Opik observability with LLM-as-judge evaluation against a 109 item golden QA dataset.
 
-`Google ADK` `Gemini SFT` `Opik` `FastAPI` `Cloud Run` `LLM-as-judge`
+`Google ADK` `Gemini` `Opik` `FastAPI` `Cloud Run` `LLM-as-judge`
 
 🏢 **Production at PayNearby** · Source private (employer IP)
 
@@ -111,7 +111,7 @@
 
 ### 📊 AI Observability & Evaluation Pipeline
 
-> Custom LiveTurnTracer capturing per turn spans across 4 RAG experts for a Google ADK voice agent. Self hosted Opik v2.0.47 with LLM-as-judge scoring RAGAS style metrics via Gemini 2.5 Flash against a 109 item golden QA dataset. Deployed across 2 Cloud Run services.
+> Custom LiveTurnTracer capturing per turn spans across 4 RAG experts for a Google ADK voice agent. Self hosted Opik v2.0.47 with LLM-as-judge scoring RAGAS style metrics via Gemini 2.5 Flash against a 109 item golden QA dataset. Runs against dev traffic on Cloud Run.
 
 `Google ADK` `Opik` `Gemini 2.5 Flash` `FastAPI` `Cloud Run`
 
